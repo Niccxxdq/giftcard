@@ -851,7 +851,7 @@ $(function() {
 			ctx.fillRect(light.x - light.radius, light.y - light.radius, light.radius * 2, light.radius * 2);
 		}
 
-		// supprise: HAPPY LUNAR NEW YEAR 2017!
+		// supprise: HAPPY FOR YOU !
 		for (var i = 0; i < listText.length; i++) {
 			var text = listText[i];
 			ctx.globalAlpha = text.alpha;
